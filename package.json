@@ -1,0 +1,12 @@
+{
+  "name": "bsc-rpc-benchmark",
+  "version": "1.0.0",
+  "description": "Measure which public BSC RPC endpoint is fastest right now (eth_blockNumber latency).",
+  "main": "bench.js",
+  "scripts": { "test": "node --check bench.js" },
+  "keywords": ["bsc", "rpc", "benchmark", "latency", "bnb"],
+  "author": "Faisal (jackdefi.ai)",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": { "node": ">=18" }
+}
